@@ -1,0 +1,108 @@
+.container {
+    max-width: 1200px;
+    margin:  auto;
+    text-align: center;
+}
+
+.wrapper {
+    width: 901px;
+    margin: auto;
+    padding: 0;
+    margin: auto;
+    padding-top: 105px;
+    font-size: 0;
+    line-height: 0;
+    } 
+.wrapper-item {
+    display: inline-block;
+    font-size: 16px;
+    line-height: normal;
+    vertical-align: top;
+    width: 420px;
+    height: 280px;
+    text-align: start;
+    padding-bottom: 335px;
+
+}
+.wrapper-item:nth-last-child(-n+2) {
+padding-bottom: 0px; 
+    
+}
+
+.wrapper-item:not(:nth-child(2n))  {
+    margin-right: 57px;
+}
+
+.menu-item li{
+ display:inline-block;
+ font-size: 12px;
+}
+.menu-item {
+    display: inline-block;
+    margin-top: 75px;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    color: #626262;
+    font-size: 0px;
+    
+
+}   
+.menu-item a{
+    
+    line-height: 16px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.menu-item li:not(:last-child) {
+    margin-right: 100px;
+}
+.menu-item a:hover,
+.menu-item a:focus{
+    color: #03a9f4;
+}
+nav{
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+img{
+    display: block;   
+    max-width:  100%;
+    height: auto;
+}
+h3{
+    text-transform: uppercase;
+    font-family: 'Ubuntu', serif;
+    font-size: 10px;
+
+
+}
+
+
+body{
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+}
+.load-button{
+    background: transparent;
+    border-width: 1px;
+    border-color: #626262;
+    border-style: solid;
+    padding: 1rem 2rem;
+/*     width: 162px;
+    height: 58px; */
+    font-size: 20px;
+    font-family: "Playfair Display";
+    color: #626262;
+    line-height: 1.2;
+    
+}
+.load-more{
+padding-top: 252px;
+}
+
+
+
+
