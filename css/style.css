@@ -39,6 +39,7 @@ color: #1abc9c;
 .menu{
     display: block;
     width: 1140px;
+    height: 162px;
     margin: auto;
 }
 .menu-item {
@@ -92,7 +93,6 @@ color: #1abc9c;
     width: 1140px;
     height: 168px;
     margin: auto;
-    padding-top: 160px;
     
   }
   .green-stripe{
