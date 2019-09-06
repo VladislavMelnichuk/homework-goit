@@ -69,7 +69,7 @@ h3 {
   min-height: 540px;
   height: 100%;
   text-align: center;
-  background: no-repeat url("../module8_files/VectorSmartObject.png") center top;
+  background: no-repeat url(../module8_files/VectorSmartObject.png) center top;
   object-fit: cover;
   background-size: cover;
   background-color: rgb(26, 25, 21);
@@ -175,21 +175,21 @@ h3 {
 }
 
 .icon-tv::after {
-  background-image: url("../module8_files/tv.png");
+  background-image: url(../module8_files/tv.png);
   background-color: rgb(255, 78, 80);
 }
 
 .icon-flask::after {
-  background-image: url("../module8_files/flask.png");
+  background-image: url(../module8_files/flask.png);
   background-color: rgb(255, 165, 7);
 }
 .icon-coffee::after {
-  background-image: url("../module8_files/coffee.png");
+  background-image: url(../module8_files/coffee.png);
   background-color: rgb(28, 215, 173);
 }
 
 .icon-telegram::after {
-  background-image: url("../module8_files/telegram.png");
+  background-image: url(../module8_files/telegram.png);
   background-color: rgb(78, 115, 219);
 }
 
