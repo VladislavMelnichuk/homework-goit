@@ -175,12 +175,12 @@ h3 {
 }
 
 .icon-tv::after {
-  background-image: url(../module8_files/tv.png);
+  background-image: url("../module8_files/tv.png");
   background-color: rgb(255, 78, 80);
 }
 
 .icon-flask::after {
-  background-image: url(../module8_files/flask.png);
+  background-image: url("../module8_files/flask.png");
   background-color: rgb(255, 165, 7);
 }
 .icon-coffee::after {
