@@ -41,10 +41,10 @@ html {
     background-repeat: no-repeat;
     background-position:  center center;
     background-size: contain;
-    background: -webkit-gradient(linear, left bottom, left top, from(rgb(252, 227, 138, 0.9)), to(rgb(243, 129, 129, 0.9))), url(/image/banner.jpg);
-    background: -webkit-linear-gradient(bottom, rgb(252, 227, 138, 0.9), rgb(243, 129, 129, 0.9)), url(/image/banner.jpg);
-    background: -o-linear-gradient(bottom, rgb(252, 227, 138, 0.9), rgb(243, 129, 129, 0.9)), url(/image/banner.jpg);
-    background: linear-gradient(to top, rgb(252, 227, 138, 0.9), rgb(243, 129, 129, 0.9)), url(/image/banner.jpg);
+    background: -webkit-gradient(linear, left bottom, left top, from(rgb(252, 227, 138, 0.9)), to(rgb(243, 129, 129, 0.9))), url(../../image/banner.jpg);
+    background: -webkit-linear-gradient(bottom, rgb(252, 227, 138, 0.9), rgb(243, 129, 129, 0.9)), url(../../image/banner.jpg);
+    background: -o-linear-gradient(bottom, rgb(252, 227, 138, 0.9), rgb(243, 129, 129, 0.9)), url(../../image/banner.jpg);
+    background: linear-gradient(to top, rgb(252, 227, 138, 0.9), rgb(243, 129, 129, 0.9)), url(../../image/banner.jpg);
     height: 100rem;
     width: 100%;
     margin-bottom: 4.4rem;
@@ -52,10 +52,10 @@ html {
 
 @media (-webkit-min-device-pixel-ratio: 2), (-o-min-device-pixel-ratio: 2/1), (min-resolution: 192dpi), (min-resolution: 2dppx) {
     .wrapper  {
-        background: -webkit-gradient(linear, left bottom, left top, from(rgb(252, 227, 138, 0.9)), to(rgb(243, 129, 129, 0.9))), url(/image/banner@2x.jpg);
-        background: -webkit-linear-gradient(bottom, rgb(252, 227, 138, 0.9), rgb(243, 129, 129, 0.9)), url(/image/banner@2x.jpg);
-        background: -o-linear-gradient(bottom, rgb(252, 227, 138, 0.9), rgb(243, 129, 129, 0.9)), url(/image/banner@2x.jpg);
-        background: linear-gradient(to top, rgb(252, 227, 138, 0.9), rgb(243, 129, 129, 0.9)), url(/image/banner@2x.jpg);
+        background: -webkit-gradient(linear, left bottom, left top, from(rgb(252, 227, 138, 0.9)), to(rgb(243, 129, 129, 0.9))), url(../../image/banner@2x.jpg);
+        background: -webkit-linear-gradient(bottom, rgb(252, 227, 138, 0.9), rgb(243, 129, 129, 0.9)), url(../../image/banner@2x.jpg);
+        background: -o-linear-gradient(bottom, rgb(252, 227, 138, 0.9), rgb(243, 129, 129, 0.9)), url(../../image/banner@2x.jpg);
+        background: linear-gradient(to top, rgb(252, 227, 138, 0.9), rgb(243, 129, 129, 0.9)), url(../../image/banner@2x.jpg);
     }
 }
 
@@ -270,7 +270,7 @@ html {
     position: absolute;
     left: 0px;
     top: 0px;
-    background: url(/image/spritesheet_icon.png);
+    background: url(../../image/spritesheet_icon.png);
     background-repeat: no-repeat;
 }
 
